@@ -5,5 +5,5 @@
 
 
 ## Circuit Setup
-- Connect DHT11 `OUT` pin to Board pin 12.
+- Connect PIR Sensor `OUT` pin to Board pin 12.
 - Connect LED to Board pin 11.
